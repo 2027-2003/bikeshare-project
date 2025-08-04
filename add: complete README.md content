@@ -1,0 +1,36 @@
+# Bikeshare Data Analysis Project
+
+This project is part of the Udacity Data Analyst Nanodegree. The goal is to explore US bikeshare data to understand usage patterns in different cities.
+
+## 📊 Data Used
+
+The data comes from three major US cities:
+- Chicago
+- New York City
+- Washington
+
+Each dataset contains information about individual trips made in the bike-sharing system.
+
+## 🔧 Technologies
+
+- Python
+- Streamlit
+- Pandas
+- NumPy
+- Time module
+
+## 📂 Project Files
+
+- bikeshare.py: The main Python script used to perform the analysis.
+- .gitignore: Ensures that .csv data files are not pushed to GitHub.
+- GIT_COMMANDS.md: Documentation of all Git/GitHub commands used during the project.
+
+## 🚀 How to Run the Project
+
+1. Run the bikeshare.py script.
+2. Follow the terminal prompts to filter data by city, month, or day.
+3. The program will compute and display descriptive statistics based on the user's input.
+
+## 🙋‍♂ Author
+
+Mishal Ahmed – as part of the Udacity Nanodegree Program.
